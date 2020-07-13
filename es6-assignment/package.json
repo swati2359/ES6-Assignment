@@ -1,0 +1,25 @@
+{
+  "name": "es6-tutorial-data-master",
+  "version": "1.0.0",
+  "description": "Starting point for the ECMAScript 6 Data Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 9020"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^5.0.0",
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.12.3",
+    "jasmine": "^2.2.1",
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.13.2",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "karma-webpack": "^1.6.0",
+    "webpack": "^1.8.4"
+  }
+}
